@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beans>
+    <bean id="sweetApple" class="main.ico.entity.Apple">
+        <property name="title" value="RedFuShi"/>
+        <property name="color" value="Red"/>
+        <property name="origin" value="Europe"/>
+    </bean>
+</beans>
